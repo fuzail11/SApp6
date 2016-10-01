@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+    <string name="button_previous">Previous</string>
+    <string name="question_1">Karachi is the capital of Pakistan</string>
+    <string name="question_2">Quaid-E-Azam is the founder of Pakistan</string>
+    <string name="question_3">Pakistan is the Islamic State</string>
+    <string name="question_4">Git is a IDE, used to develop Android Apps</string>
+</resources>
